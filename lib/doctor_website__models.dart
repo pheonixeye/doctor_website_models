@@ -6,6 +6,7 @@ export 'src/models/booking_model.dart';
 export 'src/models/category_model.dart';
 export 'src/models/clinic_model.dart';
 export 'src/models/clinic_service_model.dart';
+export 'src/models/doctor_model.dart';
 export 'src/models/hero_item_model.dart';
 export 'src/models/media_item_model.dart';
 export 'src/models/weekdays_model.dart';
